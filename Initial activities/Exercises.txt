@@ -1,0 +1,54 @@
+Based on the initial concepts obtained about the Java language, do:
+
+Write a program that calculates and prints the result of multiplying two integers.
+Write a program that calculates and prints the remainder of dividing two integers.
+Write a program that calculates and prints the arithmetic mean of 10 integers and/or floating point numbers.
+Write a program that reads two integers and prints their sum (if you want to get keyboard input, use the Scanner class.)
+Example:
+Make a program that reads a person's age and prints whether they are older or younger.
+Write a program that checks whether a number is even or odd
+Write a program that asks the user to enter a positive integer and prints its square root
+Make a program that reads a person's name and prints a welcome message.
+Write a program that calculates and prints the area of ​​a rectangle with the base and height provided by the user.
+Write a program that calculates and prints the perimeter of a circle with a user-supplied radius.
+Write a program that prints the numbers 1 to 1999 on the screen.
+Write a program that asks the user to enter a positive integer and prints the numbers from 1 to that number.
+Write a program that prints the even numbers 1 to 20 on the screen.
+Write a program that prints the multiplication table of an integer entered by the user.
+Write a program that calculates and prints the sum of numbers from 1 to 100.
+Write a program that asks the user to enter a positive integer and prints whether it is prime or not.
+Write a program that asks the user to type a sentence and counts how many vowels that sentence has.
+Write a program that asks the user to type a sentence and prints the same sentence reversed.
+Write a program that asks the user to type a sentence and prints only the words in that sentence that begin with the letter "a".
+Write a program that asks the user to type a sentence and replaces all occurrences of the letter "a" with the letter "o".
+Write a program that asks the user to enter an integer and prints all its divisors.
+Write a program that asks the user to enter two integers and prints the greatest common divisor (GCD) between them.
+
+=======================================================================================================================
+=======================================================================================================================
+
+A partir dos conceitos iniciais obtidos sobre a linguagem Java, faça:
+
+Faça um programa que calcule e imprima o resultado da multiplicação de dois números inteiros.
+Faça um programa que calcule e imprima o resto da divisão de dois números inteiros.
+Faça um programa que calcule e imprima a média aritmética de 10 números inteiros e/ou de ponto flutuante.
+Faça um programa que leia dois números inteiros e imprima a soma deles (caso queira obter entradas do teclado, use a classe Scanner.)
+Exemplo:  
+Faça um programa que leia a idade de uma pessoa e imprima se ela é maior ou menor de idade.
+Escreva um programa que verifique se um número é par ou ímpar
+Escreva um programa que peça ao usuário para digitar um número inteiro positivo e imprima a sua raiz quadrada
+Faça um programa que leia o nome de uma pessoa e imprima uma mensagem de boas-vindas.
+Faça um programa que calcule e imprima a área de um retângulo com base e altura fornecidos pelo usuário.
+Faça um programa que calcule e imprima o perímetro de um círculo com raio fornecido pelo usuário.
+Escreva um programa que imprima os números de 1 a 1999 na tela.
+Escreva um programa que peça ao usuário para digitar um número inteiro positivo e imprima os números de 1 até esse número.
+Escreva um programa que imprima os números pares de 1 a 20 na tela.
+Escreva um programa que imprima a tabuada de multiplicação de um número inteiro digitado pelo usuário.
+Escreva um programa que calcule e imprima a soma dos números de 1 a 100.
+Escreva um programa que peça ao usuário para digitar um número inteiro positivo e imprima se ele é primo ou não.
+Escreva um programa que peça ao usuário para digitar uma frase e conte quantas vogais essa frase possui.
+Escreva um programa que peça ao usuário para digitar uma frase e imprima a mesma frase invertida.
+Escreva um programa que peça ao usuário para digitar uma frase e imprima somente as palavras dessa frase que começam com a letra "a".
+Escreva um programa que peça ao usuário para digitar uma frase e substitua todas as ocorrências da letra "a" pela letra "o".
+Escreva um programa que peça ao usuário para digitar um número inteiro e imprima todos os seus divisores.
+Escreva um programa que peça ao usuário para digitar dois números inteiros e imprima o máximo divisor comum (MDC) entre eles.

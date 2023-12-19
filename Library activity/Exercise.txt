@@ -1,0 +1,38 @@
+Using the concepts of classes, objects, access modifiers, create a program for a library with the following requirements:
+
+The system must enable the registration of books
+The system must enable the registration of readers
+The system must enable the registration of book themes
+The system should make it possible to borrow books
+The system must consider the number of copies of each book at the time of loan (example: if all copies of book
+The system should allow the return of books
+This program must have a menu and must consider user input (hint: use the Scanner to receive values ​​from the keyboard). An example menu is:
+
+Welcome to the Unicatolica library. Select a number corresponding to each menu option:
+
+Enter 1 to register books
+Enter 2 to register users
+Enter 3 to register readers
+Enter 4 for return
+Enter 5 to borrow
+
+=============================================================================================================================================
+=============================================================================================================================================
+
+A partir dos conceitos de classes, objetos, modificadores de acesso, crie um programa para uma biblioteca com os seguintes requisitos:
+
+O sistema deve possibilitar o cadastro de livros
+O sistema deve possibilitar o cadastro de leitores
+O sistema deve possibilitar o cadastro de Temas de livros
+O sistema deve possibilitar o empréstimo de livros
+O sistema deve considerar a quantidade de exemplares de cada livro no momento do empréstimo (exemplo: se todos os exemplares do livro X estiverem emprestados, não deve ser possível haver novos empréstimos até que algum seja devolvido).
+O sistema deve possibilitar a devolução de livros
+Este programa deve possuir um menu e deve considerar a entrada dos usuários (dica: usar o Scanner para receber os valores do teclado). Um exemplo de menu é:
+
+Bem-vindo à biblioteca da Unicatolica. Selecione um número correspondente a cada opção do menu:
+
+Digite 1 para cadastrar livros
+Digite 2 para cadastrar usuarios
+Digite 3 para cadastrar leitores
+Digite 4 para devolução
+Digite 5 para empréstimo

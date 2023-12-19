@@ -1,0 +1,29 @@
+Do the exercise below as a review for the test (the test will be in this sense):
+
+Create a "Customer" class with the attributes "name", "cpf" and "address".
+Use the getters and setters methods to get and set these values.
+Create an "Order" class with attributes "customer", "date" and "items".
+Use the getters and setters methods to get and set these values.
+Make the composition between the "Order" and "Customer" classes,
+so that an order belongs to a customer. Create a list of "Order" objects
+and add some orders to it. Each order must contain a list of "ItemOrder" objects,
+which represent the order items (product and quantity). Implement a "calculateTotal"
+method in the "Order" class that returns the total order value. Finally, go through
+the list and print the customer's name, order date, and the total amount of each order.
+
+========================================================================================
+========================================================================================
+
+Faça o exercicio abaixo como revisão para prova (teste será neste sentido):
+
+Crie uma classe "Cliente" com os atributos "nome", "cpf" e "endereco".
+Utilize os métodos getters e setters para obter e definir esses valores.
+Crie uma classe "Pedido" com os atributos "cliente", "data" e "itens".
+Utilize os métodos getters e setters para obter e definir esses valores.
+Faça a composição entre as classes "Pedido" e "Cliente", de forma que um
+pedido pertença a um cliente. Crie uma lista de objetos "Pedido" e adicione
+alguns pedidos a ela. Cada pedido deve conter uma lista de objetos "ItemPedido",
+que representam os itens do pedido (produto e quantidade). Implemente um método
+"calcularTotal" na classe "Pedido" que retorna o valor total do pedido.
+Finalmente, percorra a lista e imprima o nome do cliente, a data do pedido e o
+valor total de cada pedido.
